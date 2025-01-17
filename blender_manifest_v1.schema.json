@@ -784,9 +784,9 @@
         "type": "string",
         "enum": [
           "windows-x64",
-          "macos-arm64",
-          "linux-x64",
           "windows-arm64",
+          "linux-x64",
+          "macos-arm64",
           "macos-x64"
         ]
       },
